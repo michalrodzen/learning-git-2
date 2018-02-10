@@ -2,7 +2,11 @@ h2 , h3 {
     text-align:center;
 }
 p {
+<<<<<<< HEAD
     width: 400px;
+=======
+    width: 500px;
+>>>>>>> name2
     text-align: center;
 }
 .one , .two , .three {
